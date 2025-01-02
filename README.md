@@ -27,15 +27,15 @@ dataset/
 
 ├── Person1/
 
-│   ├── image1.jpg
+  ├── image1.jpg
 
-│   ├── image2.jpg
+  ├── image2.jpg
 
-└── Person2/
+├── Person2/
 
-    ├── image1.jpg
+  ├── image1.jpg
     
-    └── image2.jpg
+  └── image2.jpg
     
 - Real-Time Recognition 🎥
 
