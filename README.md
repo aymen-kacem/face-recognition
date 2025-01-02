@@ -24,11 +24,17 @@ markdown
 Copier le code
 
 dataset/
+
 ├── Person1/
+
 │   ├── image1.jpg
+
 │   ├── image2.jpg
+
 └── Person2/
+
     ├── image1.jpg
+    
     └── image2.jpg
     
 - Real-Time Recognition 🎥
