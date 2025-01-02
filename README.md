@@ -80,3 +80,8 @@ Improve performance for larger datasets 🚀
 Feel free to fork this repo and submit pull requests! Contributions are welcome. 😊
 
 Let me know if you'd like me to customize this further! 🚀
+Reach out to us:
+
+📩 Email: aymenkacem2019@gmail.com
+
+💻 GitHub: aymen-kacem
